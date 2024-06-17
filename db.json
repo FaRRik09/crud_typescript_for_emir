@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "url": "https://kartinki.pics/uploads/posts/2021-07/1625157440_12-kartinkin-com-p-art-so-smislom-art-krasivo-12.jpg",
+      "title": "Toooth",
+      "info": "Colors",
+      "price": 22222222,
+      "id": 1
+    },
+    {
+      "url": "https://img.freepik.com/free-photo/beautiful-blooming-flowers-spring-season_23-2150790368.jpg",
+      "title": "Flower",
+      "info": "123456789",
+      "price": 56456,
+      "id": 2
+    },
+    {
+      "url": "https://zagony.ru/admin_new/foto/2022-5-25/1653480552/kartinki-so-smyslom-14-foto_1.jpg",
+      "title": "Brains",
+      "info": "Yes",
+      "price": 131313,
+      "id": 3
+    },
+    {
+      "url": "https://kartinki.pics/uploads/posts/2022-03/1647917333_1-kartinkin-net-p-kartinki-s-narisovannimi-devushkami-1.jpg",
+      "title": "Girl",
+      "info": "Wine",
+      "price": 1234567890,
+      "id": 4
+    },
+    {
+      "url": "https://kartinki.pics/uploads/posts/2021-07/1626811418_18-kartinkin-com-p-neobichnie-arti-so-smislom-art-krasivo-19.jpg",
+      "title": "KID",
+      "info": "116",
+      "price": 651,
+      "id": 5
+    }
+  ]
+}
